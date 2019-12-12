@@ -26,3 +26,10 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
+## Packages
+
+- @nuxtjs/axios: Secure and easy Axios integration with Nuxt.js.
+- @nuxtjs/bulma: This module leverages the lovely Bulma CSS framework.
+- @nuxtjs/dotenv: This module loads your .env file into your context options.
+- @nuxtjs/pwa: Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
+
