@@ -1,6 +1,6 @@
 # Simple-nuxt-pwa
 
-> Simple example for PWA using NuxtJs based on Scotch tutorial (https://scotch.io/tutorials/build-a-progressive-web-application-with-nuxtjs)
+> Simple PWA example using NuxtJs based on Scotch tutorial (https://scotch.io/tutorials/build-a-progressive-web-application-with-nuxtjs)
 
 ## Build Setup
 
