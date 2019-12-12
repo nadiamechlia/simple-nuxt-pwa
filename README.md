@@ -21,7 +21,9 @@ $ yarn generate
 ## Host your app for test (using [netlify](https://app.netlify.com/))
 
 1- First, you'll need to put your project directory on Github
+
 2- Second, When prompted, add in `yarn generate` as a build command and `dist` as a publish directory.
+
 3- Finally, Once the build is complete, your website will be available at the specified address.
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
